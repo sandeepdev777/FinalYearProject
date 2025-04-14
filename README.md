@@ -15,6 +15,7 @@ make a new environment(recommended) and run...
 ### Dataset used - 
 https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
 
+
 ### Some Sceenshots of This Webapp -
 
 ![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture1.PNG)
